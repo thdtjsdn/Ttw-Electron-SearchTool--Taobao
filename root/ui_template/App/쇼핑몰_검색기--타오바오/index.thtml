@@ -1,0 +1,118 @@
+<!-- 0 -->
+<div class="ui segments">
+
+	<style>
+	</style>
+
+	<!-- 1 -->
+	<div class="ui horizontal segments" style="padding: 10px 10px 0px 10px;">
+
+		<div class="ui tiny form">
+			<div class="field">
+				<div class="fields">
+
+					<div class="field">
+						<label>정렬 조건 선택</label>
+						<div class="id-sort_type ui selection dropdown">
+							<input type="hidden" name="gender">
+							<i class="dropdown icon"></i>
+							<div class="default text">Sort Types</div>
+							<div class="menu">
+								<div class="item" data-value="0">통합정렬</div>
+								<div class="item" data-value="1">높은가격>낮은가격</div>
+								<div class="item" data-value="2">낮은가격>높은가격</div>
+								<div class="item" data-value="3">신용등급</div>
+								<div class="item" data-value="4">판매량</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="field">
+						<label>검색어</label>
+						<div class="ui icon input">
+							<i class="search icon"></i>
+							<input id="input-search_keyword" type="text" placeholder="Search...">
+						</div>
+					</div>
+
+					<div class="field">
+						<label>차단 필터 적용</label>
+						<div class="id-use_filter ui toggle checkbox">
+							<input type="checkbox"">
+						</div>
+					</div>
+
+					<div class="field">
+						<label>페이지 수량</label>
+						<div class="field">
+							<div class="ui input">
+								<input id="input-page_count" type="number" value="40" style="width: 60px;" min="10" max="40">
+							</div>
+						</div>
+					</div>
+
+					<div class="field">
+						<label>페이지 이동</label>
+						<div class="fields">
+							<div class="field" style="width: 110px;">
+								<button id="btn-<" class="ui tiny labeled icon button">
+									<i class="left chevron icon"></i>
+									이전
+								</button>
+							</div>
+
+							<div class="field">
+								<div class="ui input">
+									<input id="input-page" type="number" value="1" style="width: 60px;" min="1">
+								</div>
+							</div>
+
+							<div class="field">
+								<h2>/</h2>
+							</div>
+
+							<div class="field">
+								<div class="ui disabled input">
+									<input id="input-max_page" type="number" value="100" style="width: 70px;">
+								</div>
+							</div>
+
+							<div class="field" style="width: 110px;">
+								<button id="btn->" class="ui tiny right labeled icon button">
+									<i class="right chevron icon"></i>
+									다음
+								</button>
+							</div>
+						</div>
+					</div>
+
+					<div class="field" style="width: 130px;">
+						<label>위안 환율</label>
+						<div class="ui icon input">
+							<i class="yen sign icon"></i>
+							<input id="input-exchange-CNY" type="number" value="0">
+						</div>
+					</div>
+
+					<div class="field" style="width: 130px;">
+						<label>달러 환율</label>
+						<div class="ui icon input">
+							<i class="dollar sign icon"></i>
+							<input id="input-exchange-USD" type="number" value="0">
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- 1 -->
+	<div class="ui segment" style="margin-top: 0px; overflow-y: auto; overflow-x: hidden;">
+
+		<div id="div-fancygrid" style="width: 100%;">
+		</div>
+	</div>
+
+</div>
