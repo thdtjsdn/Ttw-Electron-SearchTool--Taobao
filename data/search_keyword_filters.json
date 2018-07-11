@@ -13,114 +13,159 @@
 			"Enuhye",
 			"enuhye",
 			"ENUHYE"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "AHC",
 		"s": "A.H.C",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "AHC",
 		"s": "AHC",
-		"f": []
+		"f": [],
+		"f_n": []
+
 	},
 	{
 		"b": "CNP",
 		"s": "CNP",
 		"f": [
 			"SONY 徐汇实体店",
+			"SONY",
+			"Sony",
+			"sony",
+			"CDEP",
+			"cdep",
+			"Cdep",
 			"casio",
 			"Casio",
 			"CASIO",
-			"三菱"
-		]
+			"三菱",
+			"FM",
+			"Fm",
+			"fm",
+			"KM",
+			"Km",
+			"km",
+			"DV",
+			"dv",
+			"Dv",
+			"SSC",
+			"ssc",
+			"Ssc",
+			"KW",
+			"kw",
+			"Kw",
+			"CDLK",
+			"cdlk",
+			"Cdlk"
+		],
+		"f_n": []
 	},
 	{
 		"b": "Cloud9",
 		"s": "九朵云",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Dr.Jart",
 		"s": "Dr Jart",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Dr.Jart",
 		"s": "蒂佳婷",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Dr.Jart",
 		"s": "Dr.Jart+",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Espoir",
 		"s": "Espoir",
 		"f": [
 			"希旺"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "GUERISSON",
 		"s": "GUERISSON",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Innisfree",
 		"s": "悦诗风吟",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Innisfree",
 		"s": "Innisfree",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "It’s Skin",
 		"s": "its skin",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "It’s Skin",
 		"s": "伊思",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "It’s Skin",
 		"s": "It’s Skin",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "JAYJUN",
 		"s": "JAYJUN",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "JM Solution",
 		"s": "JM Solution",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "JM Solution",
 		"s": "JMSolution",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "LEADERS",
 		"s": "丽得姿",
 		"f": [
 			"丽得姿可莱丝"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "LEADERS",
 		"s": "LEADERS",
 		"f": [
 			"丽得姿可莱丝"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "Luna",
@@ -215,17 +260,20 @@
 			"TONGGO",
 			"Tonggo",
 			"tonggo"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "MEDIHEAL",
 		"s": "MEDIHEAL",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "MEDIHEAL",
 		"s": "美迪惠尔",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "SNP",
@@ -233,47 +281,56 @@
 		"f": [
 			"LSnP",
 			"lsnp"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "Shangpree",
 		"s": "香蒲丽",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "The Saem",
 		"s": "The Saem",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "The Saem",
 		"s": "得鲜",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "Tony Moly",
 		"s": "Tony Moly",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "etudehouse",
 		"s": "伊蒂之屋",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "etudehouse",
 		"s": "etudehouse",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "papa recipe",
 		"s": "papa recipe",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "papa recipe",
 		"s": "春雨",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "whoo",
@@ -299,7 +356,8 @@
 			"10Ml",
 			"12Ml",
 			"10片"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "whoo",
@@ -325,17 +383,20 @@
 			"10Ml",
 			"12Ml",
 			"10片"
-		]
+		],
+		"f_n": []
 	},
 	{
 		"b": "吕",
 		"s": "吕",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "美妆仙",
 		"s": "美妆仙",
-		"f": []
+		"f": [],
+		"f_n": []
 	},
 	{
 		"b": "雪花秀",
@@ -362,6 +423,7 @@
 			"30Ml",
 			"10个",
 			"20个"
-		]
+		],
+		"f_n": []
 	}
 ]
