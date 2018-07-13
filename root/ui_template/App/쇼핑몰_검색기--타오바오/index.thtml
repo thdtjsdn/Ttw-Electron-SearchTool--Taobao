@@ -22,7 +22,9 @@
 								<div class="item" data-value="1">높은가격>낮은가격</div>
 								<div class="item" data-value="2">낮은가격>높은가격</div>
 								<div class="item" data-value="3">신용등급</div>
-								<div class="item" data-value="4">판매량</div>
+								<div class="item" data-value="4">인기도>내림차순</div>
+								<div class="item" data-value="5">인기도>오름차순</div>
+								<div class="item" data-value="6">판매량</div>
 							</div>
 						</div>
 					</div>
